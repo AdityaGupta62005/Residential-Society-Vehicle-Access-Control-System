@@ -91,30 +91,10 @@ Follow these steps to set up the project on your local machine:
 
 ---
 
-## **Project Structure**  
-```
-vehicle-access-control-system/
-├── main.py                     # Main application script
-├── requirements.txt            # List of dependencies
-├── README.md                   # Project documentation
-├── database/
-│   ├── society.db              # SQLite database file
-│   └── create_db.py            # Script to initialize the database
-├── src/
-│   ├── capture_image.py        # Module for capturing images
-│   ├── preprocess_image.py     # Module for image preprocessing
-│   ├── detect_number_plate.py  # Module for number plate detection
-│   ├── extract_text.py         # Module for text extraction using OCR
-│   ├── query_database.py       # Module for database queries
-│   ├── access_control.py       # Module for access control logic
-│   └── log_entry_exit.py       # Module for logging access attempts
-├── ui/
-│   ├── gui.py                  # Main GUI code
-│   ├── styles.py               # UI styling (colors, fonts, etc.)
-│   ├── widgets.py              # Custom widgets (e.g., rounded buttons)
-│   └── admin_panel.py          # Admin interface for managing data
-└── tests/                      # Unit tests for the project
-```
+## **Screenshots**
+
+![Screenshot 2025-04-22 082618](https://github.com/user-attachments/assets/002a50c2-d22a-4603-9935-6005d457e21c)
+
 
 ---
 
